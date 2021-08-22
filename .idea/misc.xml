@@ -4,6 +4,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Homework_8/Phonebook/src/main/java/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Homework_8/Phonebook/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Homework_8/Planets/src/main/java/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Homework_8/Planets/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Homework_8/pom.xml" />
       </list>
     </option>
   </component>

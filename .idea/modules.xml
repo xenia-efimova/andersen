@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Homework_8/Collections.iml" filepath="$PROJECT_DIR$/src/main/java/Homework_8/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Homework_8/Phonebook/Phonebook.iml" filepath="$PROJECT_DIR$/src/main/java/Homework_8/Phonebook/Phonebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/Homework_8/Planets/Planets.iml" filepath="$PROJECT_DIR$/src/main/java/Homework_8/Planets/Planets.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_project.iml" filepath="$PROJECT_DIR$/first_project.iml" />
     </modules>
   </component>
